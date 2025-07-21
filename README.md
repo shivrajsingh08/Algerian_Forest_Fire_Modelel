@@ -53,7 +53,6 @@ Predict the FWI(Fire Weather Index) based on environmental conditions like tempe
 ---
 
 ## 💻 Project Structure
-## 📁 Project Structure
 
 ```
 Algerian-Forest-Fire-ML/
