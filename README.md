@@ -53,3 +53,13 @@ Predict the FWI(Fire Weather Index) based on environmental conditions like tempe
 ---
 
 ## 💻 Project Structure
+
+📁 Algerian-Forest-Fire-ML/
+├── algerian_forest_fire_model_prediction.ipynb        # Main notebook: EDA, feature engineering, model building, prediction
+├── Algerian_forest_fires_dataset_UPDATE.csv           # Raw dataset (original data source)
+├── Algerian_forest_fires_model_cleaned_dataset.csv    # Cleaned dataset used for training the ML model
+├── model.pkl                                          # Trained machine learning model saved using pickle
+├── scaler.pkl                                         # Feature scaler object saved for future use 
+├── README.md                                          # Project documentation and instructions
+└── requirements.txt                                   # List of Python libraries used in the project
+
